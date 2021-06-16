@@ -1,0 +1,34 @@
+C:\Users\trant\source\repos\Microservices\Gatewat API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\trant\source\repos\Microservices\Gatewat API\bin\Debug\net5.0\appsettings.json
+C:\Users\trant\source\repos\Microservices\Gatewat API\bin\Debug\net5.0\Gatewat API.exe
+C:\Users\trant\source\repos\Microservices\Gatewat API\bin\Debug\net5.0\Gatewat API.deps.json
+C:\Users\trant\source\repos\Microservices\Gatewat API\bin\Debug\net5.0\Gatewat API.runtimeconfig.json
+C:\Users\trant\source\repos\Microservices\Gatewat API\bin\Debug\net5.0\Gatewat API.runtimeconfig.dev.json
+C:\Users\trant\source\repos\Microservices\Gatewat API\bin\Debug\net5.0\Gatewat API.dll
+C:\Users\trant\source\repos\Microservices\Gatewat API\bin\Debug\net5.0\ref\Gatewat API.dll
+C:\Users\trant\source\repos\Microservices\Gatewat API\bin\Debug\net5.0\Gatewat API.pdb
+C:\Users\trant\source\repos\Microservices\Gatewat API\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\trant\source\repos\Microservices\Gatewat API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\trant\source\repos\Microservices\Gatewat API\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\trant\source\repos\Microservices\Gatewat API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\trant\source\repos\Microservices\Gatewat API\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\trant\source\repos\Microservices\Gatewat API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\trant\source\repos\Microservices\Gatewat API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\trant\source\repos\Microservices\Gatewat API\bin\Debug\net5.0\Ocelot.dll
+C:\Users\trant\source\repos\Microservices\Gatewat API\obj\Debug\net5.0\Gatewat API.csproj.AssemblyReference.cache
+C:\Users\trant\source\repos\Microservices\Gatewat API\obj\Debug\net5.0\Gatewat API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trant\source\repos\Microservices\Gatewat API\obj\Debug\net5.0\Gatewat API.AssemblyInfoInputs.cache
+C:\Users\trant\source\repos\Microservices\Gatewat API\obj\Debug\net5.0\Gatewat API.AssemblyInfo.cs
+C:\Users\trant\source\repos\Microservices\Gatewat API\obj\Debug\net5.0\Gatewat API.csproj.CoreCompileInputs.cache
+C:\Users\trant\source\repos\Microservices\Gatewat API\obj\Debug\net5.0\Gatewat API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\trant\source\repos\Microservices\Gatewat API\obj\Debug\net5.0\Gatewat API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\trant\source\repos\Microservices\Gatewat API\obj\Debug\net5.0\staticwebassets\Gatewat API.StaticWebAssets.Manifest.cache
+C:\Users\trant\source\repos\Microservices\Gatewat API\obj\Debug\net5.0\staticwebassets\Gatewat API.StaticWebAssets.xml
+C:\Users\trant\source\repos\Microservices\Gatewat API\obj\Debug\net5.0\scopedcss\bundle\Gatewat API.styles.css
+C:\Users\trant\source\repos\Microservices\Gatewat API\obj\Debug\net5.0\Gatewat API.RazorTargetAssemblyInfo.cache
+C:\Users\trant\source\repos\Microservices\Gatewat API\obj\Debug\net5.0\Gatewat API.csproj.CopyComplete
+C:\Users\trant\source\repos\Microservices\Gatewat API\obj\Debug\net5.0\Gatewat API.dll
+C:\Users\trant\source\repos\Microservices\Gatewat API\obj\Debug\net5.0\ref\Gatewat API.dll
+C:\Users\trant\source\repos\Microservices\Gatewat API\obj\Debug\net5.0\Gatewat API.pdb
+C:\Users\trant\source\repos\Microservices\Gatewat API\obj\Debug\net5.0\Gatewat API.genruntimeconfig.cache
+C:\Users\trant\source\repos\Microservices\Gatewat API\bin\Debug\net5.0\ocelot.json
